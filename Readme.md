@@ -1,9 +1,6 @@
 ----
 
-.. figure:: https://github.com/NeoMixlax/Automata-Project/blob/main/ComplementaryInfo/CoverImg.jpg
-   :alt: MIIRSCB
-   :width: 100%
-   :align: center
+   ![MIIRSCB](/ComplementaryInfo/CoverImg.jpg "Title")
 
 ----
 
