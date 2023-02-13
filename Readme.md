@@ -1,6 +1,6 @@
 ----
 
-   ![MIIRSCB](/ComplementaryInfo/CoverImg.jpg "Title")
+   ![MIIRSCB](/ComplementaryInfo/CoverImg2.jpg "Title")
 
 ----
 
